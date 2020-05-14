@@ -1,0 +1,11 @@
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Polymorpishm interface\bin\Debug\netcoreapp3.1\Polymorpishm interface.exe
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Polymorpishm interface\bin\Debug\netcoreapp3.1\Polymorpishm interface.deps.json
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Polymorpishm interface\bin\Debug\netcoreapp3.1\Polymorpishm interface.runtimeconfig.json
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Polymorpishm interface\bin\Debug\netcoreapp3.1\Polymorpishm interface.runtimeconfig.dev.json
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Polymorpishm interface\bin\Debug\netcoreapp3.1\Polymorpishm interface.dll
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Polymorpishm interface\bin\Debug\netcoreapp3.1\Polymorpishm interface.pdb
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Polymorpishm interface\obj\Debug\netcoreapp3.1\Polymorpishm interface.csprojAssemblyReference.cache
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Polymorpishm interface\obj\Debug\netcoreapp3.1\Polymorpishm interface.AssemblyInfoInputs.cache
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Polymorpishm interface\obj\Debug\netcoreapp3.1\Polymorpishm interface.AssemblyInfo.cs
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Polymorpishm interface\obj\Debug\netcoreapp3.1\Polymorpishm interface.dll
+D:\Tugas AMIKOM\Semester 2\Pemrograman\Polymorpishm interface\obj\Debug\netcoreapp3.1\Polymorpishm interface.pdb
